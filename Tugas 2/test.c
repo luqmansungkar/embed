@@ -1,3 +1,4 @@
+//geser lampu ke kanan dan ke kiri
 #include <avr/io.h>
 #include <util/delay.h>
 
